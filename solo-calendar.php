@@ -3,7 +3,7 @@
 Plugin Name: SoloCalendar
 Plugin URI:  http://solocalendar.com
 Description: This plugin adds a little button in your post editor with all booking forms from your SoloCalendar account.
-Version:     1.0
+Version:     1.2
 Author:      Overseas Services LP
 Author URI:  http://solocalendar.com
 */
