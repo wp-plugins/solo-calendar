@@ -54,7 +54,7 @@ class Solocalendar
 
 		add_submenu_page('solo-calendar-settings', 'Settings', 'Settings', 'manage_options', 'solo-calendar-settings', array($this, 'renderSettings'));
 
-		add_submenu_page('solo-calendar-settings', 'About', 'About', 'manage_options', 'solo-calendar-about', array($this, 'renderAbout'));
+//		add_submenu_page('solo-calendar-settings', 'About', 'About', 'manage_options', 'solo-calendar-about', array($this, 'renderAbout'));
 	}
 
 	public function renderSettings()
