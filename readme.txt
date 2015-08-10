@@ -2,7 +2,7 @@
 Tags: solocalendar, solo
 Requires at least: 3.9
 Tested up to: 4.2
-Stable tag: 1.1
+Stable tag: 1.2
 Contributors: gvalex
 Donate link: http://solocalendar.com/
 License: GPLv2 or later
