@@ -1,7 +1,5 @@
 Requires at least: 3.9
-
-Tested up to: 4.2.3
-
+Tested up to: 4.2
 Stable tag: 1.1
 
 SoloCalendar simplifies process of adding booking form to your site
